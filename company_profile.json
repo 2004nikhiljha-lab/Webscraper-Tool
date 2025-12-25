@@ -1,0 +1,26 @@
+{
+  "company_name": "Google",
+  "website": "https://google.com/",
+  "about_us": {
+    "description": null,
+    "page_url": null
+  },
+  "services": [],
+  "clients": [],
+  "process": [],
+  "articles": [],
+  "contact_info": {
+    "contact_page": null,
+    "email": null,
+    "phone": null,
+    "address": null
+  },
+  "careers": {
+    "page_url": null
+  },
+  "policies": {
+    "privacy_policy": "https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com",
+    "returns_policy": null,
+    "terms_of_service": null
+  }
+}
