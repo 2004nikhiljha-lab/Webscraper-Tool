@@ -506,7 +506,7 @@ def save_to_json(profile, filename="company_profile.json"):
 
 # Example Usage
 if __name__ == "__main__":
-    # Test URL
+    # By Default taking Google URL To Test
     company_url = "https://google.com/"
     
     try:
@@ -518,4 +518,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n[!] Error scraping {company_url}: {e}")
         import traceback
+
         traceback.print_exc()
